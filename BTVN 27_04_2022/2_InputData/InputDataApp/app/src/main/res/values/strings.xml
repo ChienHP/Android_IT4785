@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">InputDataApp</string>
+    <string name="enter_your_mssv">Enter your MSSV</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_cccd">Enter your CCCD</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="select_your_date_of_birth">Select your date of birth</string>
+    <string name="enter_your_place_of_origin">Enter your place of origin</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="major">Major:</string>
+    <string name="mssv">MSSV:</string>
+    <string name="name">Name:</string>
+    <string name="cccd">CCCD:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="date_of_birth">Date Of Birth:</string>
+    <string name="place_of_origin">Place Of Origin:</string>
+    <string name="address">Address:</string>
+    <string name="program_language">Program Language:</string>
+    <string name="c">C</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+</resources>
