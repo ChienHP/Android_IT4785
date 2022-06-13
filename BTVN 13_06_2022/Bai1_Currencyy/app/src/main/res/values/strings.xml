@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bai1_Currencyy</string>
+    <string-array name="countries">
+        <item>Vietnam - Dong</item>
+        <item>China - Yuan</item>
+        <item>Japan - Yen</item>
+        <item>Korean - Won</item>
+        <item>United States - Dollar</item>
+        <item>Uzbekistan - Som</item>
+        <item>Philippines - Peso</item>
+    </string-array>
+</resources>
