@@ -36,6 +36,9 @@ public class MainActivity extends AppCompatActivity {
         }
         if (mCount%2==0){
             buttonCount.setBackgroundColor(Color.parseColor("green"));
+            mShowCount.setBackgroundColor(Color.parseColor("black"));
+            mShowCount.setTextColor(Color.parseColor("white"));
+            String name = (String) mShowCount.getText()
         } else {
             buttonCount.setBackgroundColor(Color.parseColor("purple"));
         }
