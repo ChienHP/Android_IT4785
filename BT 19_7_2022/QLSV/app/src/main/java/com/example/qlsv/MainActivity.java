@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
             ex.printStackTrace();
         }
 
-//        createTable();
+        createTable();
 
         findViewById(R.id.button_insert).setOnClickListener(new View.OnClickListener() {
             @Override
